@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/ZzDxjFC/tl.png" alt="Tradeling" width="250"/>
   </p>
   
-<h1 align="center">The B2B E-Commerce 💥🔥🚀</h1>
+<h1 align="center">B2B E-Commerce Redefined 💥🔥🚀</h1>
 
 ### Who are we?
 We are building the future of B2B e-commerce shopping experience, where we offer the most innovative and convenient experience of B2B e-commerce online shopping, while providing unparalleled quality of products and a wide range of services to make shopping experience smooth, seamless and joyful.
