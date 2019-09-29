@@ -120,7 +120,7 @@ we strive to create the best possible environment and conditions for our employe
 
 ### Interview process
 
-1.  You [apply here](https://airtable.com/shr2e6IhncP8Vep9Z).
+1.  You [apply here](https://airtable.com/shrzZQJPLWz7n0Usq).
 1.  We set up a 30 minute call to chat with you about **Tradeling** to find out what you are looking for in your next role.
 1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out Dubai office, or conduct the remaining interviews over video chat, whatever works best for you.
@@ -129,6 +129,6 @@ we strive to create the best possible environment and conditions for our employe
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-<h4 align="center"><strong><a href='https://airtable.com/shr2e6IhncP8Vep9Z'>Click here to apply</a></strong></h4>
+<h4 align="center"><strong><a href='https://airtable.com/shrzZQJPLWz7n0Usq'>Click here to apply</a></strong></h4>
 
 If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@tradelingeng](https://twitter.com/tradelingeng)
