@@ -74,8 +74,8 @@ We have got big ambitions. Folks joining the team will be defining our software 
 ### A Little About your qualifications
 
 - 3+ years of frontend software development experience
-- Professional experience with a frontend frameworks like reactjs, nextjs, angular
-- Professional experience with a nodejs, typescript, express and other javascript technologies.
+- Professional experience with a frontend frameworks like express, reactjs, nextjs, angular
+- Professional experience with a nodejs, typescript, express, mongodb, redis, elasticsearch, mysql and other javascript technologies.
 - Experience with strongly typed languages ( Typescript )
 - Experience working with APIs ( JSON, Swagger, OpenAPI, etc )
 - Experience with distributed systems and microservices
@@ -83,7 +83,16 @@ We have got big ambitions. Folks joining the team will be defining our software 
 - Clear, concise written and verbal communication
 - A desire and willingness to learn
 - Initiative and motivation to make things happen
-- 3+ years of professional experience as Software Engineer in e-commerce platforms.
+
+#### Nice to haves
+
+- You have created and maintained a non-trivial amount code that is deployed to production.
+- You have shipped products and features that customers love to use.
+- You have experience working on developer tools.
+- You have experience mentoring and teaching other engineers.
+
+#### We also expect that
+
 - You are skilled enough within your area of expertise to own the development on a non-trivial change your first month at **Tradeling**.
 - You are passionate about creating high quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
 - You are a humble learner who values continuous growth and learns new skills quickly.
@@ -94,20 +103,13 @@ We have got big ambitions. Folks joining the team will be defining our software 
 - You constantly enhancing of your skills, workflows and impact while mobilizing your teammates and teams to do the same.
 - You give respect, patience and empathy for every interaction/relation with coworkers and the community.
 
-#### Nice to haves
-
-- You have created and maintained a non-trivial amount code that is deployed to production.
-- You have shipped products and features that customers love to use.
-- You have experience working on developer tools.
-- You have experience mentoring and teaching other engineers.
-
-### Location
+### Work location
 
 Our team is working from our office in Dubai, UAE.
 
 ### Compensation and benefits
 
-we strive to create the best possible conditions for our employees. Whether as an apprentice or experienced specialist, man or woman, single or with children, with or without disability – we provide you with the opportunity to reach your full potential. We offer programmes to promote your health, skills and career development.
+we strive to create the best possible environment and conditions for our employees. we provide you with the opportunity to reach your full potential. We offer programmes to promote your health, happiness, skills, productivity and career development.
 
 - Competitive salary with performance-based bonus opportunities.
 - Single and Family Health Insurance plans.
@@ -115,8 +117,6 @@ we strive to create the best possible conditions for our employees. Whether as a
 - Office snacks and regular team lunches
 - Training and Certification opportunities eligible for expense reimbursement.
 - Team building and social activities.
-
-We also provide all benefits to keep you happy, healthy, and productive.
 
 ### Interview process
 
