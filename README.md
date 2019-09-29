@@ -29,4 +29,4 @@ If you are that person, please come and join us now!
 ### Join Us
 You can find open positions in this repository, apply using the link at the bottom of each post. 
 
-Don't see an opportunity that's right for you? Please shoot us an email at careers@tradeling.com, We would love to hear from you, learn more about you and how could we work together.
+Don't see an opportunity that's right for you? Please [contact us through this form](https://airtable.com/shrWRnuVTM2wepq6b) , We would love to hear from you, learn more about you and how could we work together.
