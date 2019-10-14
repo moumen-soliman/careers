@@ -17,9 +17,9 @@ You will help build **Tradeling**, a b2b e-commerce platform, by collaborating o
 We use a variety of technologies to help us accomplish our goals, such as:
 
 - Backend: Golang, gRPC, Rest API, Typescript, Node.js, mongodb, Redis, Elasticsearch, etc...
-- Frontend: TypeScript, React, ReactNative, Next.js, SCSS, SASS, Node.js
+- Frontend: TypeScript, React, ReactNative, Next.js, SCSS, SASS, Node.js, etc...
 - QA Testing and Automation: Appium, Selenium, Cypress, Jest, etc...
-- Deployment and operations: Kubernetes, Docker, AWS, Terraform, Ansible, Golang, Bash
+- Deployment and operations: Kubernetes, Docker, AWS, Terraform, Ansible, Golang, Bash, etc...
 - Analytics & Data: Java, Python, Hadoop, Hive, Spark, MySQL, PostgreSQL, Elasticsearch, Tableau, etc...
   
 The actual problems that you will work on and the technologies that you will use depend on your exact interests and skills. We'll figure out where you fit on the team as part of the interview process.
@@ -39,7 +39,7 @@ Do you want to build products to reinvent a centuries old industry? If so, we'd 
 We're a startup with a long product roadmap. You'll be working with a team to make that roadmap a reality.
 
 - Collaborate with the product team to define and prioritize the problems that you will be working to solve
-- Develop new product features using react, nextjs, typescript, nodejs, sass, html, css, rest APIs, mongodb, elasticsearch, redis, mysql and other technologies. 
+- Develop new product features using react, nextjs, typescript, nodejs, sass, html, css, RESR APIs, mongodb, elasticsearch, redis, mysql and other technologies. 
 - Resolve issues with previously delivered features
 - Write unit and integration tests
 - Peer review code developed by others on your team
@@ -73,11 +73,11 @@ We have got big ambitions. Folks joining the team will be defining our software 
 
 ### A Little About your qualifications
 
-- 3+ years of frontend software development experience
-- Professional experience with a frontend frameworks like express, reactjs, nextjs, angular
+- 3+ years of frontend software development experience in e-commerce environment
+- Professional experience with a javascript frameworks like express, reactjs, nextjs, angular
 - Professional experience with a nodejs, typescript, express, mongodb, redis, elasticsearch, mysql and other javascript technologies.
 - Experience with strongly typed languages ( Typescript )
-- Experience working with APIs ( JSON, Swagger, OpenAPI, etc )
+- Experience working with APIs ( HTTP, JSON, Swagger, OpenAPI, etc )
 - Experience with distributed systems and microservices
 - A champion for Continuous Integration/Continuous Delivery (CI/CD)
 - Clear, concise written and verbal communication
