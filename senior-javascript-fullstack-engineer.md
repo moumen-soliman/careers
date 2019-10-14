@@ -121,6 +121,7 @@ we strive to create the best possible environment and conditions for our employe
 ### Interview process
 
 1.  You [apply here](https://airtable.com/shrzZQJPLWz7n0Usq).
+1.  We send you a small programming task (time to solve, est 1-2).
 1.  We set up a 30 minute call to chat with you about **Tradeling** to find out what you are looking for in your next role.
 1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out Dubai office, or conduct the remaining interviews over video chat, whatever works best for you.

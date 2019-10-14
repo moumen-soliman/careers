@@ -73,10 +73,14 @@ We have got big ambitions. Folks joining the team will be defining our software 
 
 ### A Little About you
 
-- 3+ years of software development experience in e-commerce environment
-- Professional experience with a Golang, gRPC, API Design, System Design, Distributed Systems. 
-- Experience with strongly typed languages ( Typescript )
-- Experience working with APIs ( HTTP, ProtoBuffer, gRPC ,JSON, Swagger, OpenAPI, etc )
+- 3+ years of experience as a DevOps engineer servicing large-scale e-commerce environments
+- Strong track record of success in delivering active technical leadership to a DevOps engineering team
+- Proven ability to handle enterprise-grade cloud deployments, automation, and orchestration (AWS)
+- Hands-on experience with open-source technologies such as Kubernetes, Docker, Swarm, Kafka, etc
+- Previous experience writing code to integrate systems and build configurations
+- Ability to tackle problems both at the large scale and the small scale, with constant focus on optimization, high availability, and security as it relates to the CI/CD process
+- Professional experience with a Bash, Python, Golang, Cloud System Design, Distributed Systems
+- Experience working with APIs ( HTTP ,JSON, etc )
 - Experience with distributed systems and microservices
 - A champion for Continuous Integration/Continuous Delivery (CI/CD)
 - Clear, concise written and verbal communication
@@ -120,6 +124,7 @@ we strive to create the best possible environment and conditions for our employe
 ### Interview process
 
 1.  You [apply here](https://airtable.com/shrzZQJPLWz7n0Usq).
+1.  We send you a small programming task (time to solve, est 1-2).
 1.  We set up a 30 minute call to chat with you about **Tradeling** to find out what you are looking for in your next role.
 1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out Dubai office, or conduct the remaining interviews over video chat, whatever works best for you.
