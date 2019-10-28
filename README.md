@@ -3,12 +3,10 @@
   </p>
   
 <h1 align="center">B2B E-Commerce Redefined 💥🔥🚀</h1>
-
 ### Who are we?
 We are building the future of B2B e-commerce shopping experience, where we offer the most innovative and convenient experience of B2B e-commerce online shopping, while providing unparalleled quality of products and a wide range of services to make shopping experience smooth, seamless and joyful.
  
 We are based in Dubai, UAE.
-
 ### Our vision
 
 Our Vision is to create a globally relevant technology leader based out of the MENA region that stands for the greatness of our region.
@@ -31,8 +29,6 @@ These values are at the core of our existence. They are part of our DNA and defi
 ### Our people
 People are at the core of our processes to deliver this experience, and we would like you to join us to make this commitment a reality.
 
-We're currently hiring for various roles. 
-
 Engineers at **Tradeling** are:
 - Passionate about building impactful products and solving real world problems.
 - Obsessed with self-improvement and growth.
@@ -45,7 +41,13 @@ We love to work with like-minded people believing "The whole is greater than the
  
 If you are that person, [lets talk](https://airtable.com/shrzZQJPLWz7n0Usq)
 
-### Join us
-You can find open positions in this repository, apply using the link at the bottom of each post. 
+### Open roles
+- [Engineering Manager](https://github.com/tradeling/careers/blob/master/engineering-manager.md)
+- [Sr Javascript Fullstack Engineer](https://github.com/tradeling/careers/blob/master/senior-javascript-fullstack-engineer.md)
+- [Sr Frontend Engineer](https://github.com/tradeling/careers/blob/master/senior-frontend-engineer.md)
+- [Sr Devops Engineer](https://github.com/tradeling/careers/blob/master/senior-devops-engineer.md)
+- [Sr QA Automation Engineer](https://github.com/tradeling/careers/blob/master/senior-qa-automation-engineer.md)
+- [Sr Data Engineer](https://github.com/tradeling/careers/blob/master/senior-data-engineer.md)
 
-Don't see an opportunity that's right for you? Please [reach us here](https://airtable.com/shrWRnuVTM2wepq6b), we would love to hear from you, learn more about you and how could we work together.
+
+Can't find the right opportunity? Please [reach us here](https://airtable.com/shrWRnuVTM2wepq6b), we would love to work together on building a unique role.
