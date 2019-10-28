@@ -7,14 +7,33 @@
 ### Who are we?
 We are building the future of B2B e-commerce shopping experience, where we offer the most innovative and convenient experience of B2B e-commerce online shopping, while providing unparalleled quality of products and a wide range of services to make shopping experience smooth, seamless and joyful.
  
-We based on Dubai, UAE.
+We are based in Dubai, UAE.
 
-### Our People
+### Our vision
+
+Our Vision is to create a globally relevant technology leader based out of the MENA region that stands for the greatness of our region.
+
+### Our mission
+
+We enable and simplify trade between businesses in MENA and other businesses inside and outside of the MENA region.
+
+### Our values
+
+These values are at the core of our existence. They are part of our DNA and define how we interact with each other as well as with people outside of our daily work environment. Everyone that wants to become and/or remain part of our company needs to live by  this set of values.
+
+- **V . ISIONARY -** we always have a positive vision for the future
+- **A . UTHENTIC -** we are always genuine
+- **L . IONHEARTED -** we are always brave and happy to take risks
+- **U . NITED -** we all work together, united behind our mission statement
+- **E . MPOWERING -** we are empowered, enabled, permitted and encouraged to make relevant choices
+- **S . UPPORTIVE -** we provide assistance or support to customers, colleagues, suppliers
+
+### Our people
 People are at the core of our processes to deliver this experience, and we would like you to join us to make this commitment a reality.
 
 We're currently hiring for various roles. 
 
-We are Software Engineers who are:
+Engineers at **Tradeling** are:
 - Passionate about building impactful products and solving real world problems.
 - Obsessed with self-improvement and growth.
 - Love to meet and work with starters and dedicated folks. 
@@ -24,9 +43,9 @@ We are Software Engineers who are:
 
 We love to work with like-minded people believing "The whole is greater than the sum of its parts".
  
-If you are that person, please come and join us now! 
+If you are that person, [lets talk](https://airtable.com/shrzZQJPLWz7n0Usq)
 
-### Join Us
+### Join us
 You can find open positions in this repository, apply using the link at the bottom of each post. 
 
-Don't see an opportunity that's right for you? Please [contact us through this form](https://airtable.com/shrWRnuVTM2wepq6b) , We would love to hear from you, learn more about you and how could we work together.
+Don't see an opportunity that's right for you? Please [reach us here](https://airtable.com/shrWRnuVTM2wepq6b), we would love to hear from you, learn more about you and how could we work together.
