@@ -1,12 +1,15 @@
 <p align="center">
-<img src="https://i.ibb.co/ZzDxjFC/tl.png" alt="Tradeling" width="250"/>
-  </p>
-  
+  <img src="https://i.ibb.co/ZzDxjFC/tl.png" alt="Tradeling" width="250"/>
+</p>
+
 <h1 align="center">B2B E-Commerce Redefined 💥🔥🚀</h1>
+
+
 ### Who are we?
 We are building the future of B2B e-commerce shopping experience, where we offer the most innovative and convenient experience of B2B e-commerce online shopping, while providing unparalleled quality of products and a wide range of services to make shopping experience smooth, seamless and joyful.
  
 We are based in Dubai, UAE.
+
 ### Our vision
 
 Our Vision is to create a globally relevant technology leader based out of the MENA region that stands for the greatness of our region.
